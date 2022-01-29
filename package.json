@@ -1,0 +1,19 @@
+{
+  "name": "horse",
+  "version": "1.0.0",
+  "description": "A discord bot for rotating horses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus",
+  "license": "ISC",
+  "dependencies": {
+    "dedent-js": "^1.0.1",
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "instagram-private-api": "^1.45.2",
+    "jimp": "^0.16.1",
+    "request": "^2.88.2"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "bot": {
+    "embedcolor": "#FFFFFF",
+    "footer": {
+      "text": "By Jesus",
+      "url": "https://cdn.discordapp.com/avatars/194498932041187328/a_de9fbaa107b8748a7b09ff6df3fea198.gif"
+    },
+    "prefix": "!"
+  },
+  "instagram": {
+    "username": "",
+    "password": "",
+    "append": "#rotating #horses"
+  },
+  "discord": {
+    "token": ""
+  },
+  "whitelist": {
+    "instagram": [
+      "1234567890987654321"
+    ]
+  }
+}
